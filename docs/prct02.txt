@@ -1,1 +1,13 @@
 echo "Trabajo en equipo con git"
+
+¿Cual es la diferencia entre compilacion e interpretacion?
+
+- Compilacion implica traducir todas las instrucciones del fichero a codigo maquina para que el programa se pueda ejecutar mas rapido. Crean por asi decirlo un ejecutable como exe u otros.
+
+- Interpretación implica traducir las instrucciones una por una, es por eso que son más lentos que los programas compilados. No crean archivos.exe ni similares, es una ejecucion inmediata.
+
+
+¿Cual es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb? ¿Que significado tiene la primera linea del fichero helloWorld.sh?
+
+La principal diferencia de los dos ficheros es que el .sh posee sentencias a ejecutar, mientras que el .rb son sentencias que deben ser interpretadas.
+La primera linea del .sh implica que invoca a una determinada shell. 
